@@ -1,4 +1,4 @@
 # LoginViewAnimation
 
-<img width="300" alt="Captura de pantalla 2024-08-21 a la(s) 12 16 53 p  m" src="https://github.com/user-attachments/assets/c3a1ac77-2a83-477a-b31a-1b9b2d6ee9fc">
-<img width="300" alt="Captura de pantalla 2024-08-21 a la(s) 12 17 49 p  m" src="https://github.com/user-attachments/assets/264a2906-1771-4e45-b8f0-897cc23469b2">
+<img width="350" alt="Captura de pantalla 2024-08-21 a la(s) 12 24 16 p  m" src="https://github.com/user-attachments/assets/63614459-1625-4620-8df4-d9482fa18e08">
+<img width="350" alt="Captura de pantalla 2024-08-21 a la(s) 12 25 12 p  m" src="https://github.com/user-attachments/assets/437435a5-295d-45c7-a9e9-9406183381eb">
